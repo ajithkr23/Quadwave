@@ -1,0 +1,3 @@
+Database Name--Db42021
+select * from Customers --- for Customer Table
+select * from CustomerAddresses ---for CustomerAddress Table
